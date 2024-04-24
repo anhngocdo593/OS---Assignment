@@ -1,0 +1,9 @@
+130 8
+alloc 250 2
+alloc 750 4
+write 100 2 100
+read  4 100 10
+alloc 300 8
+free 8
+free 2
+free 4
